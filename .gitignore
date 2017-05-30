@@ -1,6 +1,9 @@
 # DotEnv configuration
 .env
 
+# Mac directory files
+.DS_Store
+
 # Jupyter NB Checkpoints
 .ipynb_checkpoints/
 
