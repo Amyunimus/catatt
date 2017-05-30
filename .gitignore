@@ -4,8 +4,5 @@
 # Jupyter NB Checkpoints
 .ipynb_checkpoints/
 
-# exclude data from source control by default
-/data/
-
 # stimulus files
-/code/presentation/img/*
+code/presentation/img/*
