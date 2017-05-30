@@ -1,0 +1,27 @@
+start trial: 9
+
+cue 8 (1/0) -- cue 81, no cue 80
+
+If Precue: 81/80
+If PostCue: 181/180
+
+stim: 
+
+1 object (CHECK)
+2 scene 
+
+
+1 2 3 4 for the four different types
+
+target
+
+same as stim but ends with 9
+
+resonse: 7
+
+
+example:
+
+9 81   11 21 249 12 23 22  180  7
+
+
